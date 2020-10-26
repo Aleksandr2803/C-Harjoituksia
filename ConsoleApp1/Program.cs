@@ -1,12 +1,26 @@
-﻿using System;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
 
-namespace ConsoleApp1
+namespace Demo
 {
-    class Program
+
+    class MyApplication
     {
+
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+            double fahrenheit;
+
+            double celsius = 36;
+            Console.WriteLine("Celsius: " + celsius);
+
+            fahrenheit = (celsius * 9) / 5 + 32;
+            Console.WriteLine("Fahrenheit: " + fahrenheit);
+
+            Console.ReadLine();
         }
     }
 }
