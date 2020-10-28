@@ -1,5 +1,5 @@
 using System;
-public class funcexer3
+public class prog
 {
     public static int Sum(int num1, int num2)
     {
