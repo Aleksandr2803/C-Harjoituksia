@@ -1,6 +1,6 @@
 using System;
 
-namespace TechStudyCSharp
+namespace prog
 {
     class Program
     {
