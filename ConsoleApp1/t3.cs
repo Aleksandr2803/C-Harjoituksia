@@ -1,6 +1,6 @@
 using System;
 
-namespace ConsoleApp277
+namespace tehtava3
 {
     class Program
     {
