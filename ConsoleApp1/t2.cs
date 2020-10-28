@@ -4,7 +4,7 @@ using System;
 namespace Demo
 {
 
-    class MyApplication
+    class tehtava2
     {
 
         static void Main(string[] args)
