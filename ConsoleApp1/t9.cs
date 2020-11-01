@@ -1,5 +1,5 @@
 using System;
- class tehtava9
+ class t9
 {
     public static void Main()
     {
