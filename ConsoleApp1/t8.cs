@@ -1,7 +1,7 @@
 
 using System;
 
-namespace prog
+namespace t8
 {
     class Program
     {
