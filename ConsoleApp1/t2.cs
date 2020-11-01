@@ -1,7 +1,7 @@
 using System;
 
 
-namespace Demo
+namespace t2
 {
 
     class tehtava2
