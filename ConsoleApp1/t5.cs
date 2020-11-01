@@ -1,6 +1,6 @@
 using System;
 
-namespace Tehtava5
+namespace t5
 {
     class Program
     {
